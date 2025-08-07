@@ -1,5 +1,8 @@
 # DailyReport-Assistance
 
+### source
+https://github.com/Bada35/Write-With-Jira
+
 ### .env
 ```
 JIRA_DOMAIN={Jira Domain}
