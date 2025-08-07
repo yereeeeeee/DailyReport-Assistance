@@ -1,0 +1,6 @@
+.env
+node_modules/
+daily-jira/
+daily-git/
+daily-report/
+*.json 
